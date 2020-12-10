@@ -15,10 +15,10 @@ root directory:
 
 You can also select the password dictionaries by the following strings:  
 
-`startrek`: Star Trek words
-`starwars`: Star Wars words
-`harrypotter`: Harry Potter words
-`got`: Game of Thrones words
+* `startrek`: Star Trek words  
+* `starwars`: Star Wars words  
+* `harrypotter`: Harry Potter words  
+* `got`: Game of Thrones words  
 
 Add the string to the command:  
 
